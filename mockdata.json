@@ -1,0 +1,34 @@
+{
+	"questions": [
+		{
+			"content": "Which of these companies created React native?",
+			"answers": [
+				{ "key": "A", "content": "Google" },
+				{ "key": "B", "content": "Apple" },
+				{ "key": "C", "content": "Facebook" },
+				{ "key": "D", "content": "Amazon" }
+			],
+			"correctAnswer": "C"
+		},
+		{
+			"content": "React Native is implemented in which programming language?",
+			"answers": [
+				{ "key": "A", "content": "Python" },
+				{ "key": "B", "content": "Dart" },
+				{ "key": "C", "content": "PHP" },
+				{ "key": "D", "content": "Javascript" }
+			],
+			"correctAnswer": "D"
+		},
+		{
+			"content": "Which of these mobile frameworks is not cross platform?",
+			"answers": [
+				{ "key": "A", "content": "React Native" },
+				{ "key": "B", "content": "Kotlin" },
+				{ "key": "C", "content": "Flutter" },
+				{ "key": "D", "content": "Ionic" }
+			],
+			"correctAnswer": "B"
+		}
+	]
+}
