@@ -7,8 +7,7 @@ This is a simple quiz application developed using React Native Expo. It allows u
 - Multiple-choice questions: The app presents users with a set of questions and provides multiple options to choose from.
 - Score tracking: Users can see their current score as they progress through the quiz.
 - Timer: A countdown timer keeps track of the remaining time for each question.
-- Results: After completing the quiz, users can view their final score and the correct answers for each question.
-- Responsive design: The app is optimized for different screen sizes, allowing users to play on both desktop and mobile devices.
+- Results: After completing the quiz, users can view their final score.
 
 ## Screenshots
 
